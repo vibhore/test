@@ -1,4 +1,4 @@
-streamwork.module("com.streamwork.hello_world").methodClient = function (elementId, initialData) 
+streamwork.module("com.sap.testvib").methodClient = function (elementId, initialData) 
 {
     var Control_Area = null;
     var Data_Container = null;
